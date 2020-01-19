@@ -12,4 +12,5 @@ awk.exe can be found in gawk-3.1.6-1-bin.zip at [http://gnuwin32.sourceforge.net
 
 **notes:**<br/>
 I have tested it with a phpBB database and DB Browser from here: [https://github.com/sqlitebrowser/sqlitebrowser]<br/>
+Find an example database dump here: [https://www.mysqltutorial.org/mysql-sample-database.aspx]<br/>
 in comparison with linux, the windows version changes the encoding from UTF8, so newline-behaviour can be different. if this is important to you, you could rewrite the batch script for PowerShell and configure PowerShell for UTF8 standard encoding.
